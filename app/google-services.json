@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "505596376225",
+    "firebase_url": "https://fir-chat-4efae.firebaseio.com",
+    "project_id": "fir-chat-4efae",
+    "storage_bucket": "fir-chat-4efae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505596376225:android:4e87a752948034e4",
+        "android_client_info": {
+          "package_name": "ps.borsuquesquad.pl.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505596376225-augk4r9clb7kgbnvgs7fuc0ejas1sjio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ps.borsuquesquad.pl.firebasechat",
+            "certificate_hash": "da708bf8bbed64c70fc2df1b4b6b62749636a3ec"
+          }
+        },
+        {
+          "client_id": "505596376225-4c36qs8cm7blu0ollg6krppjq11c9ne7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPlM8zF2PA0FWm0RwAMDzpvxeD53NNrcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505596376225-4c36qs8cm7blu0ollg6krppjq11c9ne7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
